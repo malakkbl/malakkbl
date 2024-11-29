@@ -11,3 +11,10 @@
 - **Languages**: Arabic, French, English, and Tamazight.  
 
 ---
+
+## 🛠️ What You'll Find Here  
+A variety of **projects**, including:  
+  - 💻 **Personal Projects**: Exploring ideas and pushing boundaries.  
+  - 🎓 **School Assignments**: Developed as part of coursework.
+
+Thank you for stopping by! Feel free to explore my repositories or connect with me. 😊
