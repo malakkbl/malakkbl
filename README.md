@@ -69,12 +69,6 @@
   </a>
 </div>
 
-<div align="center">
-  <a href="https://github.com/malakkbl">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=malakkbl&theme=tokyonight" width="80%" alt="GitHub Profile Summary"/>
-  </a>
-</div>
-
 ---
 
 ## 🛠️ What You'll Find Here  
