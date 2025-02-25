@@ -15,7 +15,7 @@
 
 ## 📊 GitHub Stats  
 
-<div align="left">
+<div align="center">
   <a>
     <img src="https://github-readme-stats.vercel.app/api?username=malakkbl&theme=tokyonight&show_icons=true" height=150 />
   </a>
@@ -24,7 +24,7 @@
   </a>
   <br>
   <a>
-    <img src="https://activity-graph.herokuapp.com/graph?username=malakkbl&theme=rogue" width=50% height=200 alt="graph"/>
+    <img src="https://activity-graph.herokuapp.com/graph?username=malakkbl&theme=rogue" width=80% height=200 alt="GitHub Activity Graph"/>
   </a>
 </div>
 
