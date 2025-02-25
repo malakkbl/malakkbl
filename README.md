@@ -23,9 +23,10 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=malakkbl&langs_count=5&theme=tokyonight" height=150 />
   </a>
   <br>
-  <a>
-    <img src="https://activity-graph.herokuapp.com/graph?username=malakkbl&theme=rogue" width=80% height=200 alt="GitHub Activity Graph"/>
-  </a>
+</div>
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=malakkbl&theme=tokyonight" width="80%" alt="GitHub Profile Summary"/>
 </div>
 
 ---
