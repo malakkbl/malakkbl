@@ -10,7 +10,23 @@
 - **Focus Areas**: Cybersecurity, collaborative projects, integrating art into tech, and continuous learning.  
 - **Curious Mind**: I enjoy trying everything and experimenting with new skills and technologies.  
 - **Languages**: Arabic, French, English, Tamazight.  
- 
+
+---
+
+## 📊 GitHub Stats  
+
+<div align="left">
+  <a>
+    <img src="https://github-readme-stats.vercel.app/api?username=malakkbl&theme=tokyonight&show_icons=true" height=150 />
+  </a>
+  <a>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=malakkbl&langs_count=5&theme=tokyonight" height=150 />
+  </a>
+  <br>
+  <a>
+    <img src="https://activity-graph.herokuapp.com/graph?username=malakkbl&theme=rogue" width=50% height=200 alt="graph"/>
+  </a>
+</div>
 
 ---
 
@@ -20,5 +36,3 @@ A variety of **projects**, including:
   - 🎓 **School Assignments**: Developed as part of coursework.
 
 Thank you for stopping by! Feel free to explore my repositories or connect with me. 😊
-
-<a href="https://app.daily.dev/malak5"><img src="https://api.daily.dev/devcards/v2/VqnRfBDEAoAOw9km1IMJ6.png?r=jkk&type=wide" width="652" alt="Malak's Dev Card"/></a>
