@@ -17,16 +17,16 @@
 
 <div align="center">
   <a href="https://github.com/malakkbl">
-    <img src="https://github-readme-stats.vercel.app/api?username=malakkbl&theme=onedark&show_icons=true" height=180 />
+    <img src="https://github-readme-stats.vercel.app/api?username=malakkbl&theme=tokyonight&show_icons=true" height=180 />
   </a>
   <a href="https://github.com/malakkbl">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=malakkbl&langs_count=5&theme=onedark" height=180 />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=malakkbl&langs_count=5&theme=tokyonight" height=180 />
   </a>
 </div>
 
 <div align="center">
   <a href="https://github.com/malakkbl">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=malakkbl&theme=gruvbox" width="80%" alt="GitHub Profile Summary"/>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=malakkbl&theme=tokyonight" width="80%" alt="GitHub Profile Summary"/>
   </a>
 </div>
 
