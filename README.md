@@ -1,6 +1,6 @@
 # 👋 Welcome to My GitHub Profile!
 
-🎓 **First-Year Engineering Cycle**  
+🎓 **Second-Year Engineering Cycle**  
 📍 **Université Mohammed VI Polytechnique (UM6P)**, College of Computing – Morocco  
 
 ---
